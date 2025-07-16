@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    // Inline Initialization
+    // Inline Initialization--
     int a[5] = {10, 20, 30, 40, 50};
 
     //Manual Initialization
