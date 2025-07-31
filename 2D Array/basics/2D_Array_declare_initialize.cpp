@@ -3,9 +3,7 @@ using namespace std;
 int main() 
 {
     //First way: flat initialization (fills row by row)
-    int a1[3][3] = {1, 2, 3,
-                    4, 5, 6,
-                    7, 8, 9};
+    int a1[3][3] = {1, 2, 3,4, 5, 6,7, 8, 9};
 
     //Second way: nested braces
     int a2[3][3] = {{1, 2, 3},
