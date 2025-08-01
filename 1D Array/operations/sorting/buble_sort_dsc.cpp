@@ -26,7 +26,7 @@ int main()
     // Bubble Sort for Descending Order
     for (int i = 0; i < ESize ; i++) // traverse each pass
     {
-        for (int j = 0; j < ESize; j++) //compare each element
+        for (int j = 0; j < ESize-1; j++) //compare each element
         {
             if(array[j] < array[j+1])
             {
