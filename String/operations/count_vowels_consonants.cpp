@@ -18,7 +18,7 @@ int main()
 
     int len = strlen(str);
 
-    for (int i = 0; i < len; i++) 
+    for (int i=0; i<len; i++) 
     {
         char ch = tolower(str[i]);  // make lowercase for easy checking
 
@@ -31,8 +31,8 @@ int main()
         }
     }
 
-    cout << "Vowels: " << vowels << endl;
-    cout << "Consonants: " << consonants << endl;
+    cout << "Vowels: "<< vowels << endl;
+    cout << "Consonants: "<< consonants << endl;
 
     return 0;
 }
