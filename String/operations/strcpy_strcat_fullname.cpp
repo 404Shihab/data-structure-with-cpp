@@ -1,3 +1,9 @@
+/*
+This program takes three name parts and builds a full name 
+using strcpy and strcat, which makes it perfect to test C-style 
+string copy and concatenation.
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
