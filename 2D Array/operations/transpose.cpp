@@ -1,6 +1,10 @@
+/*
+ Problem Statement:
+Write a program to input a 3×3 matrix and display its transpose.
+*/
+
 #include<iostream>
 using namespace std;
-
 int main ()
 {
     int row = 3, col = 3;
