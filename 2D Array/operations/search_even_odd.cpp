@@ -1,3 +1,8 @@
+/*
+Problem Statement:
+Write a program to input a 3×3 matrix. Search for a given element and display whether it is even, odd, or not found in the matrix.
+*/ 
+
 #include<iostream>
 using namespace std;
 int main ()
